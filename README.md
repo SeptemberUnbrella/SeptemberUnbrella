@@ -55,24 +55,6 @@ Here are some ideas to get you started:
   <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
 </div>
 
-### My Activities
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 October 2023 - To: 01 October 2024
-
-Total Time: 1,203 hrs 14 mins
-
-Vue.js                     578 hrs 19 mins ████████████░░░░░░░░░░░░░   48.06 %
-TypeScript                 396 hrs 28 mins ████████▒░░░░░░░░░░░░░░░░   32.95 %
-JavaScript                 104 hrs 42 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-JSON                       55 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Markdown                   35 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Other                      9 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-```
-
-<!--END_SECTION:waka-->
 
 ### My GitHub Contributions
 
