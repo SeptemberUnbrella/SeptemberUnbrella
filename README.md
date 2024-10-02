@@ -54,8 +54,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=SeptemberUnbrella&show_icons=true" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeptemberUnbrella&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
-<div align="left">
-  <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
-</div>
 
-### 梦想之地
+### 😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄梦想之地😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
