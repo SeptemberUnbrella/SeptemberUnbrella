@@ -21,6 +21,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+## Hi, 👋 I'm Wade
+
+- 🌱 目前正在学习 `Vue3` 、 `Vite` 和 `TypeScript`
+- 📫 联系方式: 295645351@qq.com
+
+### Languaues and Tools
+
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
@@ -34,14 +41,39 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 
+### My GitHub Contributions
 
+![](https://cwd295645351.github.io/Cwd295645351/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeptemberUnbrella&show_icons=true&theme=transparent" /> 
+### My GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cwd295645351&show_icons=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
+<div align="left">
+  <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
 </div>
 
+### My Activities
 
+<!--START_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeptemberUnbrella&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
-</div>
+```txt
+From: 02 October 2023 - To: 01 October 2024
+
+Total Time: 1,203 hrs 14 mins
+
+Vue.js                     578 hrs 19 mins ████████████░░░░░░░░░░░░░   48.06 %
+TypeScript                 396 hrs 28 mins ████████▒░░░░░░░░░░░░░░░░   32.95 %
+JavaScript                 104 hrs 42 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+JSON                       55 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Markdown                   35 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Other                      9 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+```
+
+<!--END_SECTION:waka-->
+
+### My GitHub Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
