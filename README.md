@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## Hi, 👋 I'm Wade
+## Hi, 👋 I'm MAXLi
 
-- 🌱 目前正在学习 `Vue3` 、 `Vite` 和 `TypeScript`
-- 📫 联系方式: 295645351@qq.com
+- 🌱 目前正在学习 `Go` 、 `python` 、`vue3`
+- 📫 联系方式: 2119084416@qq.com
 
 ### Languaues and Tools
 
@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 
 ### My GitHub Contributions
 
-![](https://cwd295645351.github.io/Cwd295645351/github-contribution-grid-snake.svg)
+![](https://SeptemberUnbrella.github.io/Cwd295645351/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cwd295645351&show_icons=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeptemberUnbrella&show_icons=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeptemberUnbrella&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 <div align="left">
   <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
