@@ -48,10 +48,6 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 
-### My GitHub Contributions
-
-![](https://SeptemberUnbrella.github.io/Cwd295645351/github-contribution-grid-snake.svg)
-
 ### My GitHub Stats
 
 <div align="left">
@@ -62,7 +58,3 @@ Here are some ideas to get you started:
   <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
 </div>
 
-
-### My GitHub Contributions
-
-![](./profile-3d-contrib/profile-green-animate.svg)
